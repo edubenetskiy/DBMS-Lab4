@@ -9,7 +9,7 @@ createDisk() {
     mkdir -p $DISK_ROOT/$name
     for ((diskIndex = 0; diskIndex < $numDisks; diskIndex++))
     do
-        local diskPath=$name/$name$diskIndex
+        local diskPath=$DISK_ROOT/$name/$name$diskIndex
         /usr/sbin/mkfile -n $size $diskPath
     done
 }
