@@ -15,4 +15,4 @@ createDisk() {
 }
 
 createDisk cutegoat 3 500m
-createDisk carelesscat 7 500m
+createDisk carelesscat 7 800m
