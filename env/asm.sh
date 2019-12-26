@@ -1,0 +1,3 @@
+export ORACLE_HOME=/u01/app/11.2.0/grid
+export ORACLE_SID=+ASM.225088
+PATH=$ORACLE_HOME/bin:$PATH
