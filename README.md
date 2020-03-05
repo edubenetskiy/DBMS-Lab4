@@ -1,4 +1,4 @@
-# DBMS-Lab4
+# Deploying-Oracle-ASM
 
 Scripts to deploy an ASM instance of Oracle
 
